@@ -35,17 +35,19 @@
 
 ## Projects
 
-### [Project Name](https://github.com/nishandotdev/project-name)
+### Ecommerce
+(https://github.com/nishandotdev/project-name)
 A brief description of the project. Highlight the technologies used and the purpose of the project.
 
-### [Another Project](https://github.com/nishandotdev/another-project)
+### VPS
+(https://github.com/nishandotdev/another-project)
 A brief description of the project. Highlight the technologies used and the purpose of the project.
 
 ## Contact Me
 
-- 📧 Email: [your-email@example.com](contactwithnishan@gmail.com)
+- 📧 Email: [contactwithnishan@gmail.com](contactwithnishan@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/nishandotdev](https://www.linkedin.com/in/nishandotdev)
-- 🌐 Portfolio: [nishandotdev.com](https://www.nishanregmi.designfolio.com)
+- 🌐 Portfolio: [nishanregmi.designfolio.me](https://www.nishanregmi.designfolio.com)
 
 ## GitHub Stats
 
