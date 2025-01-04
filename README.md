@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi there, I'm Nishan 👋
 
-<!--
-**nishandotdev/nishandotdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 💻 **Full Stack Developer** specializing in **JavaScript**, **React**, **Node.js**, and **Python**.
+- 🌱 Currently learning **DevOps** and **Cloud Computing**.
+- 🎓 Graduated with a degree in **Computer Science**.
+- 🚀 Passionate about building scalable web applications and working on innovative projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+### Programming Languages:
+- JavaScript
+- Python
+- TypeScript
+- SQL
+
+### Frameworks and Libraries:
+- React
+- Node.js
+- Express
+- Django
+
+### Tools and Technologies:
+- Git & GitHub
+- Docker
+- Kubernetes
+- AWS
+- CI/CD (Jenkins, GitHub Actions)
+
+### Databases:
+- MongoDB
+- PostgreSQL
+- MySQL
+
+## Projects
+
+### [Project Name](https://github.com/nishandotdev/project-name)
+A brief description of the project. Highlight the technologies used and the purpose of the project.
+
+### [Another Project](https://github.com/nishandotdev/another-project)
+A brief description of the project. Highlight the technologies used and the purpose of the project.
+
+## Contact Me
+
+- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 💼 LinkedIn: [linkedin.com/in/nishandotdev](https://www.linkedin.com/in/nishandotdev)
+- 🌐 Portfolio: [nishandotdev.com](https://www.nishandotdev.com)
+
+## GitHub Stats
+
+![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishandotdev&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishandotdev&layout=compact&theme=radical)
+
+## Contributions
+
+![Nishan's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=nishandotdev&theme=react-dark&area=true&hide_border=true)
