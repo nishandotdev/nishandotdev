@@ -43,9 +43,9 @@ A brief description of the project. Highlight the technologies used and the purp
 
 ## Contact Me
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 📧 Email: [your-email@example.com](contactwithnishan@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/nishandotdev](https://www.linkedin.com/in/nishandotdev)
-- 🌐 Portfolio: [nishandotdev.com](https://www.nishandotdev.com)
+- 🌐 Portfolio: [nishandotdev.com](https://www.nishanregmi.designfolio.com)
 
 ## GitHub Stats
 
