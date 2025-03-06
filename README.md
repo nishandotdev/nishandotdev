@@ -4,7 +4,6 @@
 
 - 💻 **Full Stack Developer** specializing in **JavaScript**, **React**, **Node.js**, and **Python**.
 - 🌱 Currently learning **DevOps** and **Cloud Computing**.
-- 🎓 Graduated with a degree in **Computer Science**.
 - 🚀 Passionate about building scalable web applications and working on innovative projects.
 
 ## Skills
