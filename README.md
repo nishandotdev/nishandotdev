@@ -34,8 +34,7 @@
 
 ## Projects
 
-### Ecommerce
-(https://github.com/nishandotdev/project-name)
+(https://github.com/nishandotdev/vpsfree)
 A brief description of the project. Highlight the technologies used and the purpose of the project.
 
 ### VPS
